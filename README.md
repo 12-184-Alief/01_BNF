@@ -29,9 +29,9 @@
   <p align="center">
     An Etimo Diamonds Bot with Greedy Algoritm
     <br />
-    <a href="https://github.com/ValentinoTriadi/Tubes1_MVP"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/12-184-Alief/01_BNF"><strong>Explore the docs »</strong></a>
     ·
-    <a href="https://github.com/ValentinoTriadi/Tubes1_MVP/issues">Report Bug</a>
+    <a href="https://github.com/12-184-Alief/01_BNF/issues">Report Bug</a>
     <br/>
   </p>
 </div>
@@ -60,9 +60,9 @@
 
 
 ## About The Project
-The greedy algorithm used to solve the diamond game seeks the best local solution at each step. In each iteration, the algorithm selects the most advantageous diamond based on certain criteria, such as closest distance or the number of points it offers. Additionally, the algorithm leverages additional features within the game, such as red buttons and teleporters, to gain even greater advantages.
+The diamond game uses a greedy algorithm that focuses on finding the best immediate solution. At each turn, it picks the most beneficial diamond, often based on how close it is or how many points it's worth. The algorithm also uses in-game features like red buttons and teleporters to get an even bigger edge.
 
-The main algorithm we use is the ```DirectAttack``` algorithm that can be found in ```game/logic/direct_attack.py``` file
+The main algorithm we use is the ```____``` algorithm that can be found in ```game/logic/___``` file
 <br>
 <br>
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -101,7 +101,7 @@ The main algorithm we use is the ```DirectAttack``` algorithm that can be found 
 5. Run bot
   For 1 bot:
   ```sh
-  python main.py --logic DirectAttack --email=your_email@example.com --name=your_name --password=your_password --team etimo
+  python main.py --logic ___ --email=your_email@example.com --name=your_name --password=your_password --team etimo
   ```
   For running more than 1 bots:
   

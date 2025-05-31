@@ -88,11 +88,11 @@ The main algorithm we use is the ```____``` algorithm that can be found in ```ga
 
 ### Usage/Examples
 
-1. <a href="https://github.com/valentinotriadi/Tubes1_MVP/releases/tag/v1">Download source code (.zip)</a>
+1. <a href="https://drive.google.com/drive/folders/1pR1x59Ac1yo49JrYkAkWSfWbtOI7TWmV?usp=sharing">Download source code (.zip)</a>
 2. Extract zip and open the file
 3. Go to root directory
   ```sh
-  cd tubes1-IF2110-bot-starter-pack-1.0.1
+  cd tubes1-IF2211-bot-starter-pack-1.0.1
   ```
 4. Install dependencies using pip
   ```sh

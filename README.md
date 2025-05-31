@@ -1,4 +1,4 @@
-<!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
+![image](https://github.com/user-attachments/assets/2ff44419-ce8b-4549-ba37-4ac82043fcc9)<!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
 <a name="readme-top"></a>
 <!--
 *** Thanks for checking out the Best-README-Template. If you have a suggestion
@@ -142,8 +142,8 @@ Room for improvement:
 
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
-- [Habbi Widagdo]()
-- [Martino Kelvin]()
+- [Habbi Widagdo](https://github.com/habbiwidagdo)
+- [Martino Kelvin](https://github.com/MartinoKelvin)
 - [Mohd.Musyaffa Alief Athallah](https://github.com/12-184-Alief)
 
 
